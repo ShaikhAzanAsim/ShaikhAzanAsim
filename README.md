@@ -25,9 +25,6 @@ I'm a passionate developer with expertise in **C++, JavaScript, Python**, and **
 ### ⚡ **Fun Fact**:
 - I play a better **cover drive** than Babar Azam (or so I believe)!
 
----
-
-This version emphasizes your **DevOps** focus and makes it clear that it’s your top priority for a job. Let me know if you'd like any further adjustments!
 <!---
 ShaikhAzanAsim/ShaikhAzanAsim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
