@@ -1,7 +1,7 @@
 
 👋 Hi, I’m **@ShaikhAzanAsim**!
 
-I'm a passionate developer with expertise in **C++, JavaScript, Python**, and **PHP**, and I'm currently diving deep into **Artificial Intelligence**, **Cybersecurity**, and **DevOps**. My journey revolves around combining my technical skills with real-world applications, whether it's developing **AI models**, ensuring robust **security solutions**, or streamlining **DevOps** processes to improve collaboration and efficiency in development and operations.
+I'm a passionate developer with expertise in **C++, JavaScript, Python**, and **PHP**, and I'm currently diving deep into **Artificial Intelligence(Computer Vision)**, **Cybersecurity**, and **DevOps**. My journey revolves around combining my technical skills with real-world applications, whether it's developing **AI models**, ensuring robust **security solutions**, or streamlining **DevOps** processes to improve collaboration and efficiency in development and operations.
 
 ### 👀 **What I'm Interested In**:
 - **Cricket**: A sport I enjoy both playing and analyzing. Fun fact: I’m known for my unbeatable **cover drive**, and I play better than Babar Azam on a good day!
