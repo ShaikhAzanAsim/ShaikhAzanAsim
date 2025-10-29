@@ -5,7 +5,7 @@ I'm a passionate developer with expertise in **C++, JavaScript, Python**, and **
 
 ### 👀 **What I'm Interested In**:
 - **Cricket**: A sport I enjoy both playing and analyzing. Fun fact: I’m known for my unbeatable **cover drive**, and I play better than Babar Azam on a good day!
-- **Artificial Intelligence**: I’m building neural networks and developing models that can analyze data, predict outcomes, and create automated systems.
+- **Artificial Intelligence**: Developing advanced computer vision systems using deep learning to perform image analysis, object detection, and automated scene understanding. I’m Passionate about teaching machines to see and enable vision-based automation.
 - **Cybersecurity**: Learning how to protect systems and data from cyber threats, and implementing secure coding practices.
 - **DevOps**: My top priority right now! I’m passionate about optimizing development and operations workflows using automation tools and continuous integration/continuous deployment (CI/CD) pipelines. I’m focused on implementing practices that enhance collaboration, automate deployments, and ensure efficient, scalable systems.
 
